@@ -77,5 +77,6 @@ while anotherloss==1
                 otherwise
                     K(Klosscount)=0; %keeps program from crashing but gives garbage data
             end
+    end
             
 end
